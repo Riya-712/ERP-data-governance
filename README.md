@@ -44,6 +44,8 @@ Full breakdown and methodology: [`Data_Quality_Report.md`](./Data_Quality_Report
 `PostgreSQL` · `Python (pandas, SQLAlchemy)` · `SQL` · `Power BI (DAX,
 drillthrough)`
 
+## Dashboard
+![Dashboard](snapshots/Screenshot 2026-09-18 151847.png)
 
 ## Data quality rule catalog
 
