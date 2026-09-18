@@ -1,0 +1,6 @@
+check,violation_count
+products.supplier_id not in suppliers,3
+inventory.sku not in products,0
+inventory_transactions.sku not in products,0
+purchase_orders.sku not in products,0
+purchase_orders.supplier_id not in suppliers,0

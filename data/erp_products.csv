@@ -1,0 +1,201 @@
+sku,product_name,category,price,supplier_id
+ITM00001,Phone Mount,Accessories,146.14,SUP018
+SKU00002,Multimeter Digital,Tools,465.87,SUP022
+PRO00003,Accounting Software Basic,Software,970.67,SUP008
+PROD00004,Circuit Board PCB,Components,933.5,SUP011
+PRO00005,Multimeter Digital,Tools,64.86,SUP015
+PROD00006,LED Diode Red,Components,321.0,SUP025
+PRO00007,Laptop Stand Deluxe,Electronics,227.6,SUP020
+PROD00008,Database Management Tool,Software,73.9,SUP009
+SKU00009,Sensor Module,Components,250.03,SUP012
+PRO00010,USB Flash Drive 64GB,Electronics,254.95,SUP005
+ITM00011,HDMI Cable 2m,Electronics,313.33,SUP030
+PRO00012,Circuit Board PCB,Components,664.15,SUP013
+PRO00013,Video Editing Software,Software,655.67,SUP020
+PRO00014,Stepper Motor,Components,211.0,SUP018
+ITM00015,Transistor NPN Pro,Components,156.9,SUP020
+PROD00016,Mounting Plate,Hardware,924.28,SUP004
+PRO00017,Resistor Pack 1K Standard, Components ,495.99,SUP007
+PROD00018,Screen Protector,Accessories,79.95,SUP010
+PRO00019,Project Management Suite,Software,71.2,SUP006
+SKU00020,Steel Bolt M8,Hardware,714.65,SUP022
+ITM00021,Laptop Stand,Electronics,517.34,SUP028
+PRO00022,IC Chip 555 Timer,Components,65.97,SUP004
+ITM00023,Cloud Storage 1TB Plus,Software,689.72,SUP022
+PROD00024,Velcro Strips Standard,Accessories,144.52,SUP018
+ITM00025,Anti-Glare Filter,Accessories,507.16,SUP018
+SKU00026,Office Productivity Pack Standard,Software,762.23,SUP013
+PRO00027,Steel Bolt M8,Hardware,479.45,SUP028
+PRO00028,Circuit Board PCB,Components,344.01,SUP001
+PRO00029,Wire Stripper,Tools,193.77,SUP003
+PRO00030,Stepper Motor,Components,923.53,SUP013
+SKU00031,Phone Charger,Electronics ,156.8,
+PRO00032,Anti-Glare Filter,Accessories,658.22,SUP008
+ITM00033,Transistor NPN,Components,51.47,SUP007
+ITM00034,Phone Charger,Electronics,721.22,SUP017
+SKU00035,Backup Solution Plus,Software,120.62,SUP027
+ITM00036,Brass Fitting,Hardware,373.77,
+PRO00037,Relay Module 5V,Components,,SUP002
+PRO00038,Database Management Tool Plus,Software,338.43,SUP030
+PRO00039,Aluminum Bracket,Hardware,224.24,SUP019
+ITM00040,Soldering Iron 60W,Tools,936.9,
+SKU00041,HDMI Cable 2m,Electronics,47.2,SUP016
+PRO00042,Team Collaboration Tool, Software,,SUP010
+ITM00043,Phone Charger Basic,Electronics,116.43,SUP007
+PROD00044,Design Software License,Software,960.77,SUP017
+PROD00045,Monitor Riser,Accessories,980.08,SUP012
+SKU00046,Stepper Motor Basic,Components,61.18,SUP025
+PRO00047,Phone Charger,Electronics,228.4,SUP011
+PROD00048,Hammer 16oz,Tools,120.63,SUP029
+PROD00049,Circuit Board PCB Plus,Components,296.77,SUP009
+ITM00050,Corner Brace,Hardware,,SUP012
+PROD00051,Brass Fitting,Hardware,693.06,SUP017
+PRO00052,Voltage Regulator,Components ,673.94,SUP029
+PRO00053,LED Diode Red Pro,Components,797.06,SUP010
+SKU00054,Stepper Motor,Components,,SUP025
+PRO00055,Screwdriver Set 12pc,Tools,237.33,SUP027
+PROD00056,Wireless Mouse,Electronics,985.34,SUP030
+SKU00057,Desk Mat Large,Accessories,,SUP020
+ITM00058,Carrying Case,Accessories,117.69,SUP012
+PROD00059,Sealant Silicone,Materials,239.85,SUP030
+PRO00060,Sealant Silicone,Materials,839.83,SUP019
+SKU00061,Drill Bit Set Elite,Tools,822.64,SUP003
+PROD00062,Adjustable Wrench Basic,Tools,314.12,SUP027
+ITM00063,CRM Platform Deluxe,Software,588.52,SUP006
+PRO00064,Wire Stripper,Tools,231.12,SUP002
+ITM00065,Stainless Steel Hinge Advanced,Hardware,183.48,SUP024
+PRO00066,Sealant Silicone,Materials,,SUP005
+SKU00067,Screwdriver Set 12pc Pro,Tools,222.7,SUP012
+PRO00068,Accounting Software,Software,534.54,SUP999
+SKU00069,Power Bank 20000mAh Basic,Electronics,541.23,SUP017
+ITM00070,LED Diode Red,Components,106.18,SUP011
+ITM00071,Plastic Sheet Clear,Materials,780.76,SUP030
+SKU00072,Adjustable Wrench Basic,Tools,492.58,SUP023
+PROD00073,Velcro Strips,Accessories,857.84,
+PRO00074,Steel Bolt M8,Hardware,297.38,SUP022
+PROD00075,Paint Spray Can Pro,Materials,436.99,SUP028
+PRO00076,Mechanical Keyboard,Electronics,829.46,SUP003
+ITM00077,Ergonomic Wrist Rest Plus,Accessories,391.27,SUP025
+PRO00078,Resistor Pack 1K,Components,124.39,SUP006
+SKU00079,Aluminum Sheet 12x12 Advanced,Materials,19.09,SUP023
+PROD00080,Drill Bit Set,Tools,386.44,SUP017
+PRO00081,Ergonomic Wrist Rest,Accessories,204.03,SUP030
+SKU00082,Multimeter Digital,Tools ,628.2,SUP005
+SKU00083,Wireless Headphones,Electronics,551.72,SUP022
+PROD00084,Project Management Suite Advanced,Software,277.97,SUP015
+PRO00085,Design Software License Elite,Software,709.03,SUP004
+SKU00086,Drill Bit Set Deluxe,Tools,770.06,SUP003
+PRO00087,Aluminum Bracket,Hardware,602.73,SUP024
+SKU00088,"PVC Pipe 2"" x 10ft",Materials,731.48,SUP026
+SKU00089,Wire Stripper,Tools,57.69,SUP027
+PROD00090,Ergonomic Wrist Rest,Accessories,399.49,SUP007
+ITM00091,Circuit Board PCB Deluxe,Components,35.56,SUP020
+PRO00092,Utility Knife,Tools,565.64,SUP002
+SKU00093,USB Flash Drive 64GB,Electronics,409.31,SUP019
+SKU00094,Bluetooth Speaker Basic,Electronics,773.91,SUP008
+PRO00095,LED Diode Red,Components,146.16,
+ITM00096,Screen Protector,Accessories,594.36,SUP024
+PRO00097,Phone Charger,Electronics,839.12,SUP020
+SKU00098,"Level 24""",Tools,792.06,SUP014
+ITM00099,Velcro Strips,Accessories,162.36,SUP006
+PRO00100,Lubricant Oil,Materials,123.11,SUP023
+SKU00101,Backup Solution,Software,790.93,SUP025
+PROD00102,Wire Stripper,Tools,383.37,SUP016
+SKU00103,Desk Mat Large,Accessories,231.39,SUP001
+PRO00104,Plastic Sheet Clear,Materials,853.55,SUP007
+ITM00105,Smart Watch Premium,Electronics,784.73,SUP027
+PROD00106,Mounting Plate,Hardware,290.21,SUP016
+PROD00107,Backup Solution,Software,469.91,SUP001
+PROD00108,"LED Monitor 27""",Electronics,705.98,SUP019
+PRO00109,Drill Bit Set Elite,Tools,363.85,SUP019
+ITM00110,Foam Padding Deluxe,Materials,289.6,SUP005
+ITM00111,Corner Brace Standard,Hardware,403.06,SUP005
+ITM00112,"Level 24""",Tools,993.36,
+ITM00113,"LED Monitor 27"" Plus",Electronics,722.79,SUP005
+ITM00114,Plastic Spacer Deluxe,Hardware,56.67,SUP012
+PRO00115,Measuring Tape 5m,Tools,113.25,
+SKU00116,Raspberry Pi 4 Elite,Components,423.34,SUP004
+PROD00117,Monitor Riser,Accessories,938.61,SUP003
+SKU00118,Portable SSD 1TB,Electronics,240.16,SUP003
+PRO00119,Drill Bit Set Pro,Tools,91.18,SUP013
+SKU00120,Cable Organizer Pro,Accessories,862.48,SUP006
+PROD00121,Brass Fitting,Hardware,212.64,SUP014
+SKU00122,Accounting Software Deluxe,Software,564.47,SUP011
+PROD00123,Wireless Mouse Elite,Electronics,526.91,SUP015
+SKU00124,Mounting Plate,Hardware,93.48,SUP008
+PROD00125,Hammer 16oz,Tools,165.74,SUP007
+ITM00126,Bluetooth Speaker,Electronics,61.99,SUP005
+ITM00127,Desk Mat Large, Accessories ,535.51,SUP029
+ITM00128,Voltage Regulator Pro,Components,710.27,SUP030
+PROD00129,IC Chip 555 Timer Elite,Components,132.04,SUP001
+SKU00130,Threaded Rod Standard,Hardware,194.97,
+PRO00131,Spring Washer,Hardware,246.01,SUP002
+PROD00132,USB Flash Drive 64GB,Electronics,795.93,SUP010
+PRO00133,Wood Plank Oak,Materials,192.05,SUP013
+ITM00134,Paint Spray Can Plus,Materials,391.57,SUP001
+ITM00135,Laptop Stand,Electronics ,680.04,SUP005
+PROD00136,"Steel Rod 1/2""",Materials,879.24,SUP017
+PRO00137,Database Management Tool,Software,69.84,SUP007
+SKU00138,Copper Wire 18AWG,Materials,985.78,
+ITM00139,E-Reader,Electronics,195.89,SUP015
+SKU00140,Desk Mat Large Deluxe, Accessories ,185.42,SUP002
+SKU00141,Backup Solution,Software,738.26,SUP027
+SKU00142,Rubber Grommet Premium,Hardware,687.92,SUP008
+SKU00143,Smart Watch,Electronics,,SUP025
+PRO00144,Stainless Steel Hinge Basic,Hardware,599.43,SUP007
+PROD00145,Mechanical Keyboard,Electronics,970.68,SUP026
+PRO00146,Arduino Board Elite,Components,185.76,SUP012
+PROD00147,Multimeter Digital Premium,,125.46,SUP006
+PRO00148,Cloud Storage 1TB,Software,272.46,SUP001
+PROD00149,CRM Platform Deluxe,Software,96.23,SUP009
+PRO00150,Cable Organizer,Accessories,193.33,SUP017
+PRO00151,VPN Service Annual,Software,906.42,SUP018
+SKU00152,Backup Solution Deluxe,,263.67,SUP004
+PROD00153,Cable Organizer,Accessories,733.23,SUP002
+SKU00154,Cable Organizer,Accessories,866.09,SUP006
+PRO00155,"Laptop Sleeve 15""",Accessories,310.68,SUP024
+PRO00156,Hex Key Set Standard,Tools,738.95,SUP002
+PRO00157,Lubricant Oil,Materials,495.52,SUP015
+ITM00158,Stepper Motor,Components,787.04,SUP012
+SKU00159,Resistor Pack 1K,Components,117.39,SUP006
+PROD00160,"Steel Rod 1/2""",Materials,191.04,SUP018
+PRO00161,Wood Plank Oak Plus,Materials,880.52,SUP007
+PRO00162,Rubber Mat Plus,Materials,315.4,SUP017
+PRO00163,Voltage Regulator,Components,951.88,SUP028
+PROD00164,"Steel Rod 1/2""", Materials,557.98,SUP012
+PROD00165,Wireless Mouse,Electronics,892.62,SUP003
+ITM00166,Ergonomic Wrist Rest Elite,Accessories,841.17,SUP010
+PROD00167,Stepper Motor,Components,161.81,
+PROD00168,Carrying Case Basic,Accessories,575.62,SUP021
+SKU00169,Threaded Rod,Hardware,816.71,SUP020
+SKU00170,Aluminum Sheet 12x12 Basic,Materials,69.5,SUP023
+PROD00171,"LED Monitor 27""",Electronics,699.73,SUP015
+ITM00172,Hammer 16oz,Tools,497.83,SUP004
+SKU00173,HDMI Cable 2m,Electronics,282.98,SUP005
+PROD00174,Metal Clamp Pro,Hardware,726.74,SUP016
+ITM00175,Measuring Tape 5m,Tools,479.65,SUP023
+ITM00176,Relay Module 5V,Components,,SUP025
+PROD00177,VPN Service Annual,Software,37.95,SUP030
+PROD00178,Threaded Rod,Hardware,851.14,SUP016
+SKU00179,Pliers Set,Tools,798.15,SUP999
+PRO00180,Antivirus Premium,Software,950.32,SUP016
+SKU00181,Lubricant Oil,Materials,87.1,SUP020
+PROD00182,Antivirus Premium,Software,480.54,SUP008
+PRO00183,LED Diode Red,Components,903.27,SUP006
+PROD00184,Drill Bit Set,Tools,275.47,SUP017
+PROD00185,Pliers Set,Tools,512.55,SUP008
+SKU00186,Steel Bolt M8,Hardware,307.49,SUP003
+PROD00187,"LED Monitor 27""",Electronics,668.54,SUP999
+SKU00188,Wireless Mouse,Electronics,193.11,SUP007
+ITM00189,Paint Spray Can,Materials,126.3,SUP007
+SKU00190,Phone Charger,Electronics,151.53,SUP005
+PROD00191,LED Diode Red Deluxe, Components ,955.82,SUP021
+PROD00192,Database Management Tool,Software,973.24,SUP015
+PRO00193,Desk Mat Large,Accessories,857.1,SUP020
+SKU00194,Screen Protector,Accessories,446.0,SUP011
+PRO00195,Desk Mat Large,Accessories,41.34,SUP025
+SKU00196,E-Reader,Electronics,916.24,SUP014
+SKU00197,Wireless Mouse,Electronics,637.93,SUP020
+PRO00198,Cloud Storage 1TB Advanced,Software,320.06,SUP023
+PROD00199,Project Management Suite,Software,835.92,SUP017
+ITM00200,Stepper Motor,Components,576.63,

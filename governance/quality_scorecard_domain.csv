@@ -1,0 +1,5 @@
+table_name,overall_score,total_violations
+products,0.9512499999999999,39
+purchase_orders,0.9622333333333333,340
+inventory,0.966,34
+inventory_transactions,0.9684,253

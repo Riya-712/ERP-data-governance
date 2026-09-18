@@ -1,0 +1,10 @@
+table_name,dimension,violation_count,row_count,quality_score
+inventory,accuracy,34,1000,0.966
+inventory_transactions,consistency,253,8000,0.9684
+products,completeness,21,200,0.895
+products,consistency,10,200,0.95
+products,uniqueness,5,200,0.975
+products,validity,3,200,0.985
+purchase_orders,accuracy,60,3000,0.98
+purchase_orders,completeness,193,3000,0.9357
+purchase_orders,consistency,87,3000,0.971

@@ -1,0 +1,4 @@
+check,violation_count
+products.sku duplicated,0
+"products.(product_name, supplier_id) duplicated",5
+suppliers.supplier_id duplicated,0

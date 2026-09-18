@@ -1,0 +1,31 @@
+supplier_id,name,lead_time_days,reliability_score
+SUP001,TechComponents Ltd,10,93.2
+SUP002,GlobalParts Inc,6,94.2
+SUP003,PrimeManufacturing,34,77.8
+SUP004,EliteSupply Co,26,70.3
+SUP005,MegaDistributors,12,86.5
+SUP006,FastShip Logistics,18,88.4
+SUP007,QualityMaterials Ltd,11,70.6
+SUP008,BulkGoods Corp,11,99
+SUP009,ReliableVendors Inc,31,96.9
+SUP010,QuickSource Ltd,5,71.3
+SUP011,IndustryLeaders Co,20,70.6
+SUP012,SupplyChain Masters,10,80.6
+SUP013,ComponentsPlus,14,95.5
+SUP014,MaterialsFirst,24,78.5
+SUP015,PartnerSupply Inc,26,78.9
+SUP016,TradeMark Distributors,14,83.6
+SUP017,SupplyPro Ltd,9,78.7
+SUP018,VendorElite Corp,28,91.7
+SUP019,SourceDirect Inc,23,73.5
+SUP020,ComponentKings,26,97.9
+SUP021,MegaVendor Co,26,93.9
+SUP022,SupplyHub Ltd,7,79.5
+SUP023,TradePartners Inc,10,97.5
+SUP024,GlobalSource Co,32,93.7
+SUP025,ComponentCentral,29,89.3
+SUP026,SupplyNation Ltd,10,71.2
+SUP027,VendorPro Inc,17,74.5
+SUP028,MaterialsMaster,23,93.2
+SUP029,PartSupply Co,20,95.1
+SUP030,IndustrialVendors Ltd,26,74.2
