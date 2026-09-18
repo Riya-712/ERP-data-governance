@@ -45,7 +45,7 @@ Full breakdown and methodology: [`Data_Quality_Report.md`](./Data_Quality_Report
 drillthrough)`
 
 ## Dashboard
-![Dashboard](snapshots/Screenshot 2026-09-18 151847.png)
+![Data Governance and Quality check](snapshots<img width="1523" height="857" alt="Screenshot 2026-09-18 151847" src="https://github.com/user-attachments/assets/baa7124a-c68e-4163-817a-9cd3abd87bce" />)
 
 ## Data quality rule catalog
 
